@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TissueAnalytics</string>
+    <string name="dialog">Loading..</string>
+    <string name="useraction">Please choose a site you want to follow to view the streamflow data</string>
+    <string name="site1">RIO CHAMA NEAR CHAMITA, NM..</string>
+    <string name="site2">RIO PUEBLO DE TAOS NEAR TAOS, NM</string>
+    <string name="internet_error">Please turn on Internet!!</string>
+    <string name="sitename">Site Name</string>
+    <string name="sitecode">Site Code</string>
+    <string name="minvalue">Minimum Value</string>
+    <string name="maxvalue">Maximum Value</string>
+    <string name="avgvalue">Average Value</string>
+    <string name="site1_sitenumber">08290000</string>
+    <string name="site2_sitenumber">08269000</string>
+    <string name="no_data">No Data fetched</string>
+    <string name="userchoice">Click to View the line graph</string>
+    <string name="progress_title">Progress</string>
+    <string name="progress_message">Loading..</string>
+    <string name="description">The USGS investigates the occurrence, quantity, quality, distribution, and movement of surface and underground waters and disseminates the data to the public, and other Federal agencies involved with managing water resources.
+        \n\nData are collected by field personnel or satellites to offices where it is stored and processed. USGS finalizes data at individual sites on a continuous basis as environmental conditions and hydrologic characteristics permit.
+</string>
+    <string name="axis_text">x-axis: time\n y-axis: streamflow value</string>
+
+</resources>
