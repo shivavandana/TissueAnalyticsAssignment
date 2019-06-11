@@ -2,8 +2,7 @@
 This Android App displays the stream flow related information fetched from the USGS NWIS site.
 
 Developed app on the following environment
-Android Studio version: 2.3.3
-Java version: 8
+Android Studio version: 3.4.1
 Designed on 5-inch Nexus phone
 Works on all the phones of any screen size as scrolling is enabled.
 
